@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "1",
+    "Name": "Gaming Laptop",
+    "Description": "High-performance gaming laptop",
+    "Price": 1500.00,
+    "Category": "Electronics",
+    "InStock": true,
+    "Quantity": 10
+  },
+  {
+    "Id": "2",
+    "Name": "Wireless Mouse",
+    "Description": "Ergonomic wireless mouse",
+    "Price": 25.99,
+    "Category": "Accessories",
+    "InStock": true,
+    "Quantity": 50
+  }
+]
